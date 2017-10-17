@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy ByPass -File "%MDR_PackageFolder%\Deploy-Application.ps1" -DeploymentType "Uninstall" -DeployMode "Silent" -DeploymentType "Uninstall"
