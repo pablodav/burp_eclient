@@ -1,1 +1,0 @@
-powershell -ExecutionPolicy ByPass -File "%MDR_PackageFolder%\Deploy-Application.ps1" -DeployMode "Silent" -DeploymentType "Install"
